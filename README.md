@@ -31,3 +31,5 @@
 - **Джуниорам сложно:** всего 2.9% от DS-вакансий.
 
 ## 📁 Структура репозитория
+- [`Салманова Ю.Д. Анализ вакансий из hh.ru.ipynb`](https://github.com/UlyaSalmanova/PROJECT-2.-HeadHunter/blob/main/%D0%A1%D0%B0%D0%BB%D0%BC%D0%B0%D0%BD%D0%BE%D0%B2%D0%B0%20%D0%AE.%D0%94.%20%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D0%B2%D0%B0%D0%BA%D0%B0%D0%BD%D1%81%D0%B8%D0%B9%20%D0%B8%D0%B7%20hh.ru.ipynb) - основной ноутбук с кодом и выводами
+- [`.gitignore`](https://github.com/UlyaSalmanova/PROJECT-2.-HeadHunter/blob/main/.gitignore) - исключения для Git
