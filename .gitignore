@@ -1,11 +1,11 @@
-# Jupyter checkpoints (автосохранения ноутбуков)
+# Jupyter checkpoints
 .ipynb_checkpoints/
 
 # Python (кэш)
 __pycache__/
 *.pyc
 
-# Файлы с паролями/токенами (ВАЖНО!)
+# Файлы с паролями/токенами
 config.py
 .env
 secrets.py
